@@ -19,9 +19,9 @@ Then, please [create a new issue in the GitHub repository][new-issue] describing
 
 Be sure to include as much detail as possible including step-by-step descriptions, specific examples, screenshots or mockups, and reasoning for why the enhancement might be worthwhile.
 
-[new-issue]: https://github.com/geexHive/resources/issues/new
-[github-repo]: https://github.com/geexHive/resources/
-[issues-list]: https://github.com/GeexgeexHive/resources/issues
+[new-issue]: https://github.com/GEEX-org/Resources/issues/new
+[github-repo]: https://github.com/GEEX-org/Resources/
+[issues-list]: https://github.com/GEEX-org/Resources/issues
 
 ## Style guide
 
