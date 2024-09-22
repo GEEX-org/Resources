@@ -25,6 +25,6 @@
 
 ## Thanks to  contributors 
 
- <a href = "https://github.com/GeexHive/resources/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=GeexHive/resources"/>
+ <a href = "https://github.com/GEEX-org/Resources/graphs/contributors">
+   <img src = "https://contrib.rocks/image?repo=GEEX-org/Resources"/>
  </a>
